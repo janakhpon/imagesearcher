@@ -3,8 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `yarn install`
 
-### `npm start`
+### `yarn start`
+if u ran into error.. consider using `sudo` like below ..
+### `sudo yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
